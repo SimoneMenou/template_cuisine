@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.section1
+{   background-size:cover;
+    height:650px;
+    background-image:url(://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/d10fd14ad4015f6c9af5da75/pexelsphoto3378044.jpeg) ;
+}
+.sticker1>h2,.sticker2>h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    background-color:white;
+    margin-left: 40%;
+    margin-right: 35%;
+    text-align: center;
+}
+.sticker1{
+    margin-top: 2%;
+}
+.stickers{
+    margin-top: 10%;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+}
+.h,h4{
+    margin-left: 20%;
+}
+.intro>p{
+    font-size: 16px;
+    text-align: right;
+    margin-left: 40%;
+    margin-right: 25%;
+    font-family: 'Open',sans-serif;
+}
+section.breakfast {
+    padding-top: 10%;
+    float: left;
+    position: relative;
+    margin-left: 15%;
+    
+}
+
+.bloc1>h1{
+  
+    font-size: 60px;
+    margin-left: 50%;
+    
+}
+.bloc1>p{
+    margin-left: 50%;
+    margin-right: 10%;
+    text-align: right;
+    font-family: 'Open',sans-serif;
+}
+div.hover>p{
+    font-size: 16px;
+    font-family: 'Open',sans-serif;
+    line-height: 25px;
+    
+}
+div.hover{
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 60%;
+    line-height:20px;
+
+}
+
+
+div.bloc_color {
+    width: 30%;
+    height: 700px;
+    background-color: #F1C50E;
+    float: left;
+    opacity: 45%;
+}
+div.hover>p :hover{
+    color: palevioletred;
+}
+div.bloc1 {
+    width: 60%;
+    float: left;
+}
+div.bloc2 {
+    width: 20%;
+    float: left;
+}
+section.weight{
+    
+    clear: both;
+    padding-top: 10%;
+    
+}
+
+h4,h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
+.croissant
+{
+    position: absolute;
+    left: 75%;
+    width: 25%;
+    float: left;
+    top:33%;
+}
+.crepe{
+    position:absolute;
+    left: 45%;
+    top: 50%;
+    width: 25%;
+    float: left;
+    
+}
+
